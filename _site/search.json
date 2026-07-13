@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scientific Computing for Physics",
+    "section": "",
+    "text": "A modern introduction to Scientific Computing for Physics and Engineering students using Python.\nWelcome to Scientific Computing for Physics, a long-term educational project that integrates scientific programming, data analysis, visualization, numerical methods, and Physics into a single learning path.\nThe goal of this project is to show that programming should not be learned separately from Physics, but rather as a tool for understanding physical phenomena, building computational models, and analyzing results.\nThis material is continuously developed and is intended to evolve over time into a complete resource for undergraduate students, educators, and researchers."
+  },
+  {
+    "objectID": "index.html#objectives",
+    "href": "index.html#objectives",
+    "title": "Scientific Computing for Physics",
+    "section": "Objectives",
+    "text": "Objectives\nThis project aims to:\n\nIntroduce Scientific Computing using Python.\nTeach programming applied to Physics.\nDevelop skills in scientific data analysis and visualization.\nPresent numerical methods gradually and in context.\nComplement traditional Physics teaching with computational experiments.\nProvide an open and free educational resource."
+  },
+  {
+    "objectID": "index.html#project-organization",
+    "href": "index.html#project-organization",
+    "title": "Scientific Computing for Physics",
+    "section": "Project Organization",
+    "text": "Project Organization\nThe content is organized into four major parts.\n\nPart I — Scientific Computing\nIntroduction to the fundamental tools used throughout the entire project.\nTopics include:\n\nPython\nJupyter Notebooks\nNumPy\nPandas\nMatplotlib\nSciPy\nScientific project organization\n\n\n\n\nPart II — Physics and Data Science\nIntroduction to the fundamental concepts of scientific data analysis.\nThe notebooks in this section cover topics such as:\n\nexperimental data analysis;\nscientific visualization;\ndescriptive statistics;\nregression;\nleast squares;\nexperimental uncertainties;\nscientific communication.\n\n\n\n\nPart III — Physics\nMost of the project is dedicated to the traditional undergraduate Physics curriculum.\nThe content approximately follows the sequence of a university course:\n\nPhysics I — Mechanics\nPhysics II — Waves, Fluids, and Thermodynamics\nPhysics III — Electromagnetism\nPhysics IV — Optics and Modern Physics\n\nEach notebook combines theory, computational implementation, visualizations, simulations, and exercises.\n\n\n\nPart IV — Numerical Methods\nThe algorithms used throughout the project are gathered in this section, where they are studied in greater depth.\nPlanned topics include:\n\nnumerical differentiation;\nnumerical integration;\nroot finding;\ninterpolation;\nlinear systems;\nordinary differential equations;\npartial differential equations;\nMonte Carlo methods;\noptimization."
+  },
+  {
+    "objectID": "index.html#target-audience",
+    "href": "index.html#target-audience",
+    "title": "Scientific Computing for Physics",
+    "section": "Target Audience",
+    "text": "Target Audience\nThis project was developed primarily for:\n\nundergraduate Physics students;\nEngineering students;\neducators;\nresearchers beginning in Scientific Computing;\nanyone interested in learning Physics using Python."
+  },
+  {
+    "objectID": "index.html#technologies",
+    "href": "index.html#technologies",
+    "title": "Scientific Computing for Physics",
+    "section": "Technologies",
+    "text": "Technologies\nAll content is developed using free and open-source tools.\n\nPython\nJupyter Notebook\nNumPy\nPandas\nMatplotlib\nSciPy\nQuarto"
+  },
+  {
+    "objectID": "index.html#continuous-development",
+    "href": "index.html#continuous-development",
+    "title": "Scientific Computing for Physics",
+    "section": "Continuous Development",
+    "text": "Continuous Development\nThis is a long-term project.\nNew notebooks, examples, simulations, and animations will be added continuously, covering the main topics of undergraduate Physics and Engineering.\nThe goal is to build, over time, a complete educational resource in Scientific Computing for Physics."
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Scientific Computing for Physics",
+    "section": "License",
+    "text": "License\nThis project is released under the MIT License."
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html",
+    "title": "Scientific Computing for Physics",
+    "section": "",
+    "text": "Code\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt"
+  }
+]

@@ -1,0 +1,135 @@
+---
+title: "Scientific Computing for Physics"
+---
+
+> **A modern introduction to Scientific Computing for Physics and Engineering students using Python.**
+
+Welcome to **Scientific Computing for Physics**, a long-term educational project that integrates scientific programming, data analysis, visualization, numerical methods, and Physics into a single learning path.
+
+The goal of this project is to show that programming should not be learned separately from Physics, but rather as a tool for understanding physical phenomena, building computational models, and analyzing results.
+
+This material is continuously developed and is intended to evolve over time into a complete resource for undergraduate students, educators, and researchers.
+
+---
+
+## Objectives
+
+This project aims to:
+
+- Introduce Scientific Computing using Python.
+- Teach programming applied to Physics.
+- Develop skills in scientific data analysis and visualization.
+- Present numerical methods gradually and in context.
+- Complement traditional Physics teaching with computational experiments.
+- Provide an open and free educational resource.
+
+---
+
+## Project Organization
+
+The content is organized into four major parts.
+
+### Part I — Scientific Computing
+
+Introduction to the fundamental tools used throughout the entire project.
+
+Topics include:
+
+- Python
+- Jupyter Notebooks
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Scientific project organization
+
+---
+
+### Part II — Physics and Data Science
+
+Introduction to the fundamental concepts of scientific data analysis.
+
+The notebooks in this section cover topics such as:
+
+- experimental data analysis;
+- scientific visualization;
+- descriptive statistics;
+- regression;
+- least squares;
+- experimental uncertainties;
+- scientific communication.
+
+---
+
+### Part III — Physics
+
+Most of the project is dedicated to the traditional undergraduate Physics curriculum.
+
+The content approximately follows the sequence of a university course:
+
+- Physics I — Mechanics
+- Physics II — Waves, Fluids, and Thermodynamics
+- Physics III — Electromagnetism
+- Physics IV — Optics and Modern Physics
+
+Each notebook combines theory, computational implementation, visualizations, simulations, and exercises.
+
+---
+
+### Part IV — Numerical Methods
+
+The algorithms used throughout the project are gathered in this section, where they are studied in greater depth.
+
+Planned topics include:
+
+- numerical differentiation;
+- numerical integration;
+- root finding;
+- interpolation;
+- linear systems;
+- ordinary differential equations;
+- partial differential equations;
+- Monte Carlo methods;
+- optimization.
+
+---
+
+## Target Audience
+
+This project was developed primarily for:
+
+- undergraduate Physics students;
+- Engineering students;
+- educators;
+- researchers beginning in Scientific Computing;
+- anyone interested in learning Physics using Python.
+
+---
+
+## Technologies
+
+All content is developed using free and open-source tools.
+
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- SciPy
+- Quarto
+
+---
+
+## Continuous Development
+
+This is a long-term project.
+
+New notebooks, examples, simulations, and animations will be added continuously, covering the main topics of undergraduate Physics and Engineering.
+
+The goal is to build, over time, a complete educational resource in Scientific Computing for Physics.
+
+---
+
+## License
+
+This project is released under the MIT License.

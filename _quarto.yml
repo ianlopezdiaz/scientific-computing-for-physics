@@ -1,0 +1,62 @@
+project:
+  type: website
+
+website:
+  title: "Scientific Computing for Physics"
+  description: "An open educational resource for learning Physics through scientific computing using Python."
+  site-url: "https://ianlopezdiaz.github.io/scientific-computing-for-physics"
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+
+      - text: "Part I"
+        menu:
+          - href: notebooks/part_01_scientific_computing/01_what_is_scientific_computing.ipynb
+            text: "01 - What is Scientific Computing?"
+
+      - text: "Part II"
+        href: index.qmd
+
+      - text: "Physics I"
+        href: index.qmd
+
+      - text: "Physics II"
+        href: index.qmd
+
+      - text: "Physics III"
+        href: index.qmd
+
+      - text: "Physics IV"
+        href: index.qmd
+
+      - text: "Numerical Methods"
+        href: index.qmd
+
+    right:
+      - text: "🇧🇷 Português"
+        href: "https://ianlopezdiaz.github.io/scientific-computing-for-physics-pt"
+
+      - text: "Portfolio"
+        href: "https://ianlopezdiaz.github.io/portfolio"
+
+      - icon: github
+        href: "https://github.com/ianlopezdiaz/scientific-computing-for-physics"
+
+  page-footer:
+    left: "© 2026 ianlopezdiaz"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: solar
+    toc: true
+    toc-depth: 3
+    code-fold: show
+    highlight-style: github
+
+execute:
+  freeze: auto
