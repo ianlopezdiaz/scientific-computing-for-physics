@@ -18,7 +18,7 @@
     "href": "index.html#project-organization",
     "title": "Scientific Computing for Physics",
     "section": "Project Organization",
-    "text": "Project Organization\nThe content is organized into four major parts.\n\nPart I — Scientific Computing\nIntroduction to the fundamental tools used throughout the entire project.\nTopics include:\n\nPython\nJupyter Notebooks\nNumPy\nPandas\nMatplotlib\nSciPy\nScientific project organization\n\n\n\n\nPart II — Physics and Data Science\nIntroduction to the fundamental concepts of scientific data analysis.\nThe notebooks in this section cover topics such as:\n\nexperimental data analysis;\nscientific visualization;\ndescriptive statistics;\nregression;\nleast squares;\nexperimental uncertainties;\nscientific communication.\n\n\n\n\nPart III — Physics\nMost of the project is dedicated to the traditional undergraduate Physics curriculum.\nThe content approximately follows the sequence of a university course:\n\nPhysics I — Mechanics\nPhysics II — Waves, Fluids, and Thermodynamics\nPhysics III — Electromagnetism\nPhysics IV — Optics and Modern Physics\n\nEach notebook combines theory, computational implementation, visualizations, simulations, and exercises.\n\n\n\nPart IV — Numerical Methods\nThe algorithms used throughout the project are gathered in this section, where they are studied in greater depth.\nPlanned topics include:\n\nnumerical differentiation;\nnumerical integration;\nroot finding;\ninterpolation;\nlinear systems;\nordinary differential equations;\npartial differential equations;\nMonte Carlo methods;\noptimization."
+    "text": "Project Organization\nThe content is organized into four major parts.\n\nPart I - Scientific Computing\nIntroduction to the fundamental tools used throughout the entire project.\nTopics include:\n\nPython\nJupyter Notebooks\nNumPy\nPandas\nMatplotlib\nSciPy\nScientific project organization\n\n\n\n\nPart II - Physics and Data Science\nIntroduction to the fundamental concepts of scientific data analysis.\nThe notebooks in this section cover topics such as:\n\nexperimental data analysis;\nscientific visualization;\ndescriptive statistics;\nregression;\nleast squares;\nexperimental uncertainties;\nscientific communication.\n\n\n\n\nPart III - Physics\nMost of the project is dedicated to the traditional undergraduate Physics curriculum.\nThe content approximately follows the sequence of a university course:\n\nPhysics I - Mechanics\nPhysics II - Waves, Fluids, and Thermodynamics\nPhysics III - Electromagnetism\nPhysics IV - Optics and Modern Physics\n\nEach notebook combines theory, computational implementation, visualizations, simulations, and exercises.\n\n\n\nPart IV - Numerical Methods\nThe algorithms used throughout the project are gathered in this section, where they are studied in greater depth.\nPlanned topics include:\n\nnumerical differentiation;\nnumerical integration;\nroot finding;\ninterpolation;\nlinear systems;\nordinary differential equations;\npartial differential equations;\nMonte Carlo methods;\noptimization;\ncomputational complexity."
   },
   {
     "objectID": "index.html#target-audience",
@@ -49,10 +49,2523 @@
     "text": "License\nThis project is released under the MIT License."
   },
   {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html",
+    "title": "04 - NumPy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#physical-motivation",
+    "title": "04 - NumPy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#theory",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#theory",
+    "title": "04 - NumPy",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#analytical-solution",
+    "title": "04 - NumPy",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#numerical-implementation",
+    "title": "04 - NumPy",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#visualization",
+    "title": "04 - NumPy",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#exercises",
+    "title": "04 - NumPy",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/04_numpy.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/04_numpy.html#extensions",
+    "title": "04 - NumPy",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html",
+    "title": "06 - Matplotlib",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#physical-motivation",
+    "title": "06 - Matplotlib",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#theory",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#theory",
+    "title": "06 - Matplotlib",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#analytical-solution",
+    "title": "06 - Matplotlib",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#numerical-implementation",
+    "title": "06 - Matplotlib",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#visualization",
+    "title": "06 - Matplotlib",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#exercises",
+    "title": "06 - Matplotlib",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/06_matplotlib.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/06_matplotlib.html#extensions",
+    "title": "06 - Matplotlib",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html",
+    "title": "02 - Python Fundamentals",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#physical-motivation",
+    "title": "02 - Python Fundamentals",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#theory",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#theory",
+    "title": "02 - Python Fundamentals",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#analytical-solution",
+    "title": "02 - Python Fundamentals",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#numerical-implementation",
+    "title": "02 - Python Fundamentals",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#visualization",
+    "title": "02 - Python Fundamentals",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#exercises",
+    "title": "02 - Python Fundamentals",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/02_python_fundamentals.html#extensions",
+    "title": "02 - Python Fundamentals",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html",
+    "title": "03 - Jupyter Notebooks",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#physical-motivation",
+    "title": "03 - Jupyter Notebooks",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#theory",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#theory",
+    "title": "03 - Jupyter Notebooks",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#analytical-solution",
+    "title": "03 - Jupyter Notebooks",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#numerical-implementation",
+    "title": "03 - Jupyter Notebooks",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#visualization",
+    "title": "03 - Jupyter Notebooks",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#exercises",
+    "title": "03 - Jupyter Notebooks",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/03_jupyter_notebooks.html#extensions",
+    "title": "03 - Jupyter Notebooks",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html",
+    "title": "03 - Root Finding",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#physical-motivation",
+    "title": "03 - Root Finding",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#theory",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#theory",
+    "title": "03 - Root Finding",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#analytical-solution",
+    "title": "03 - Root Finding",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#numerical-implementation",
+    "title": "03 - Root Finding",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#visualization",
+    "title": "03 - Root Finding",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#exercises",
+    "title": "03 - Root Finding",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/03_root_finding.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/03_root_finding.html#extensions",
+    "title": "03 - Root Finding",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html",
+    "title": "04 - Interpolation",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#physical-motivation",
+    "title": "04 - Interpolation",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#theory",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#theory",
+    "title": "04 - Interpolation",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#analytical-solution",
+    "title": "04 - Interpolation",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#numerical-implementation",
+    "title": "04 - Interpolation",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#visualization",
+    "title": "04 - Interpolation",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#exercises",
+    "title": "04 - Interpolation",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/04_interpolation.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/04_interpolation.html#extensions",
+    "title": "04 - Interpolation",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html",
+    "title": "02 - Numerical Integration",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#physical-motivation",
+    "title": "02 - Numerical Integration",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#theory",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#theory",
+    "title": "02 - Numerical Integration",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#analytical-solution",
+    "title": "02 - Numerical Integration",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#numerical-implementation",
+    "title": "02 - Numerical Integration",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#visualization",
+    "title": "02 - Numerical Integration",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#exercises",
+    "title": "02 - Numerical Integration",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/02_numerical_integration.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/02_numerical_integration.html#extensions",
+    "title": "02 - Numerical Integration",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html",
+    "title": "10 - Computational Complexity",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#physical-motivation",
+    "title": "10 - Computational Complexity",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#theory",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#theory",
+    "title": "10 - Computational Complexity",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#analytical-solution",
+    "title": "10 - Computational Complexity",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#numerical-implementation",
+    "title": "10 - Computational Complexity",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#visualization",
+    "title": "10 - Computational Complexity",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#exercises",
+    "title": "10 - Computational Complexity",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/10_computational_complexity.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/10_computational_complexity.html#extensions",
+    "title": "10 - Computational Complexity",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#physical-motivation",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#theory",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#theory",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#analytical-solution",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#numerical-implementation",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#visualization",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#exercises",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/06_ordinary_differential_equations.html#extensions",
+    "title": "06 - Ordinary Differential Equations",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html",
+    "title": "01 - Electrostatics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#physical-motivation",
+    "title": "01 - Electrostatics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#theory",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#theory",
+    "title": "01 - Electrostatics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#analytical-solution",
+    "title": "01 - Electrostatics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#numerical-implementation",
+    "title": "01 - Electrostatics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#visualization",
+    "title": "01 - Electrostatics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#exercises",
+    "title": "01 - Electrostatics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.html#extensions",
+    "title": "01 - Electrostatics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html",
+    "title": "02 - Electric Potential",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#physical-motivation",
+    "title": "02 - Electric Potential",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#theory",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#theory",
+    "title": "02 - Electric Potential",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#analytical-solution",
+    "title": "02 - Electric Potential",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#numerical-implementation",
+    "title": "02 - Electric Potential",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#visualization",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#visualization",
+    "title": "02 - Electric Potential",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#exercises",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#exercises",
+    "title": "02 - Electric Potential",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#extensions",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.html#extensions",
+    "title": "02 - Electric Potential",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html",
+    "title": "02 - Wave Superposition",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#physical-motivation",
+    "title": "02 - Wave Superposition",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#theory",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#theory",
+    "title": "02 - Wave Superposition",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#analytical-solution",
+    "title": "02 - Wave Superposition",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#numerical-implementation",
+    "title": "02 - Wave Superposition",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#visualization",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#visualization",
+    "title": "02 - Wave Superposition",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#exercises",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#exercises",
+    "title": "02 - Wave Superposition",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#extensions",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.html#extensions",
+    "title": "02 - Wave Superposition",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html",
+    "title": "01 - Waves",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#physical-motivation",
+    "title": "01 - Waves",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#theory",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#theory",
+    "title": "01 - Waves",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#analytical-solution",
+    "title": "01 - Waves",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#numerical-implementation",
+    "title": "01 - Waves",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#visualization",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#visualization",
+    "title": "01 - Waves",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#exercises",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#exercises",
+    "title": "01 - Waves",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#extensions",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.html#extensions",
+    "title": "01 - Waves",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html",
+    "title": "03 - Newton’s Laws",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#physical-motivation",
+    "title": "03 - Newton’s Laws",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#theory",
+    "title": "03 - Newton’s Laws",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#analytical-solution",
+    "title": "03 - Newton’s Laws",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#numerical-implementation",
+    "title": "03 - Newton’s Laws",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#visualization",
+    "title": "03 - Newton’s Laws",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#exercises",
+    "title": "03 - Newton’s Laws",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.html#extensions",
+    "title": "03 - Newton’s Laws",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html",
+    "title": "07 - Oscillations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#physical-motivation",
+    "title": "07 - Oscillations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#theory",
+    "title": "07 - Oscillations",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#analytical-solution",
+    "title": "07 - Oscillations",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#numerical-implementation",
+    "title": "07 - Oscillations",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#visualization",
+    "title": "07 - Oscillations",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#exercises",
+    "title": "07 - Oscillations",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/07_oscillations.html#extensions",
+    "title": "07 - Oscillations",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html",
+    "title": "05 - Linear Momentum",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#physical-motivation",
+    "title": "05 - Linear Momentum",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#theory",
+    "title": "05 - Linear Momentum",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#analytical-solution",
+    "title": "05 - Linear Momentum",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#numerical-implementation",
+    "title": "05 - Linear Momentum",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#visualization",
+    "title": "05 - Linear Momentum",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#exercises",
+    "title": "05 - Linear Momentum",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.html#extensions",
+    "title": "05 - Linear Momentum",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html",
+    "title": "01 - Geometrical Optics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#physical-motivation",
+    "title": "01 - Geometrical Optics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#theory",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#theory",
+    "title": "01 - Geometrical Optics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#analytical-solution",
+    "title": "01 - Geometrical Optics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#numerical-implementation",
+    "title": "01 - Geometrical Optics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#visualization",
+    "title": "01 - Geometrical Optics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#exercises",
+    "title": "01 - Geometrical Optics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.html#extensions",
+    "title": "01 - Geometrical Optics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html",
+    "title": "03 - Modern Physics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#physical-motivation",
+    "title": "03 - Modern Physics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#theory",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#theory",
+    "title": "03 - Modern Physics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#analytical-solution",
+    "title": "03 - Modern Physics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#numerical-implementation",
+    "title": "03 - Modern Physics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#visualization",
+    "title": "03 - Modern Physics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#exercises",
+    "title": "03 - Modern Physics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.html#extensions",
+    "title": "03 - Modern Physics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html",
+    "title": "04 - Descriptive Statistics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#physical-motivation",
+    "title": "04 - Descriptive Statistics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#theory",
+    "title": "04 - Descriptive Statistics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#analytical-solution",
+    "title": "04 - Descriptive Statistics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#numerical-implementation",
+    "title": "04 - Descriptive Statistics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#visualization",
+    "title": "04 - Descriptive Statistics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#exercises",
+    "title": "04 - Descriptive Statistics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/04_descriptive_statistics.html#extensions",
+    "title": "04 - Descriptive Statistics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html",
+    "title": "07 - Linear Regression",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#physical-motivation",
+    "title": "07 - Linear Regression",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#theory",
+    "title": "07 - Linear Regression",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#analytical-solution",
+    "title": "07 - Linear Regression",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#numerical-implementation",
+    "title": "07 - Linear Regression",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#visualization",
+    "title": "07 - Linear Regression",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#exercises",
+    "title": "07 - Linear Regression",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/07_linear_regression.html#extensions",
+    "title": "07 - Linear Regression",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html",
+    "title": "08 - Nonlinear Regression",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#physical-motivation",
+    "title": "08 - Nonlinear Regression",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#theory",
+    "title": "08 - Nonlinear Regression",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#analytical-solution",
+    "title": "08 - Nonlinear Regression",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#numerical-implementation",
+    "title": "08 - Nonlinear Regression",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#visualization",
+    "title": "08 - Nonlinear Regression",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#exercises",
+    "title": "08 - Nonlinear Regression",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/08_nonlinear_regression.html#extensions",
+    "title": "08 - Nonlinear Regression",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html",
+    "title": "09 - Scientific Reporting",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#physical-motivation",
+    "title": "09 - Scientific Reporting",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#theory",
+    "title": "09 - Scientific Reporting",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#analytical-solution",
+    "title": "09 - Scientific Reporting",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#numerical-implementation",
+    "title": "09 - Scientific Reporting",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#visualization",
+    "title": "09 - Scientific Reporting",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#exercises",
+    "title": "09 - Scientific Reporting",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/09_scientific_reporting.html#extensions",
+    "title": "09 - Scientific Reporting",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html",
+    "title": "06 - Least Squares",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#physical-motivation",
+    "title": "06 - Least Squares",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#theory",
+    "title": "06 - Least Squares",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#analytical-solution",
+    "title": "06 - Least Squares",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#numerical-implementation",
+    "title": "06 - Least Squares",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#visualization",
+    "title": "06 - Least Squares",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#exercises",
+    "title": "06 - Least Squares",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/06_least_squares.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/06_least_squares.html#extensions",
+    "title": "06 - Least Squares",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html",
+    "title": "03 - Reading Experimental Data",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#physical-motivation",
+    "title": "03 - Reading Experimental Data",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#theory",
+    "title": "03 - Reading Experimental Data",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#analytical-solution",
+    "title": "03 - Reading Experimental Data",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#numerical-implementation",
+    "title": "03 - Reading Experimental Data",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#visualization",
+    "title": "03 - Reading Experimental Data",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#exercises",
+    "title": "03 - Reading Experimental Data",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/03_reading_experimental_data.html#extensions",
+    "title": "03 - Reading Experimental Data",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html",
+    "title": "02 - Scientific Visualization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#physical-motivation",
+    "title": "02 - Scientific Visualization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#theory",
+    "title": "02 - Scientific Visualization",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#analytical-solution",
+    "title": "02 - Scientific Visualization",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#numerical-implementation",
+    "title": "02 - Scientific Visualization",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#visualization",
+    "title": "02 - Scientific Visualization",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#exercises",
+    "title": "02 - Scientific Visualization",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/02_scientific_visualization.html#extensions",
+    "title": "02 - Scientific Visualization",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html",
+    "title": "05 - Measurement Uncertainties",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#physical-motivation",
+    "title": "05 - Measurement Uncertainties",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#theory",
+    "title": "05 - Measurement Uncertainties",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#analytical-solution",
+    "title": "05 - Measurement Uncertainties",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#numerical-implementation",
+    "title": "05 - Measurement Uncertainties",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#visualization",
+    "title": "05 - Measurement Uncertainties",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#exercises",
+    "title": "05 - Measurement Uncertainties",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.html#extensions",
+    "title": "05 - Measurement Uncertainties",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html",
+    "title": "01 - Data in Physics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#physical-motivation",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#physical-motivation",
+    "title": "01 - Data in Physics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#theory",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#theory",
+    "title": "01 - Data in Physics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#analytical-solution",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#analytical-solution",
+    "title": "01 - Data in Physics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#numerical-implementation",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#numerical-implementation",
+    "title": "01 - Data in Physics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#visualization",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#visualization",
+    "title": "01 - Data in Physics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#exercises",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#exercises",
+    "title": "01 - Data in Physics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#extensions",
+    "href": "notebooks/part_02_physics_and_data_science/01_data_in_physics.html#extensions",
+    "title": "01 - Data in Physics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html",
+    "title": "02 - Wave Optics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#physical-motivation",
+    "title": "02 - Wave Optics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#theory",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#theory",
+    "title": "02 - Wave Optics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#analytical-solution",
+    "title": "02 - Wave Optics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#numerical-implementation",
+    "title": "02 - Wave Optics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#visualization",
+    "title": "02 - Wave Optics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#exercises",
+    "title": "02 - Wave Optics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.html#extensions",
+    "title": "02 - Wave Optics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html",
+    "title": "06 - Rotational Motion",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#physical-motivation",
+    "title": "06 - Rotational Motion",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#theory",
+    "title": "06 - Rotational Motion",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#analytical-solution",
+    "title": "06 - Rotational Motion",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#numerical-implementation",
+    "title": "06 - Rotational Motion",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#visualization",
+    "title": "06 - Rotational Motion",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#exercises",
+    "title": "06 - Rotational Motion",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.html#extensions",
+    "title": "06 - Rotational Motion",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html",
+    "title": "02 - Kinematics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#physical-motivation",
+    "title": "02 - Kinematics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#theory",
+    "title": "02 - Kinematics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#analytical-solution",
+    "title": "02 - Kinematics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#numerical-implementation",
+    "title": "02 - Kinematics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#visualization",
+    "title": "02 - Kinematics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#exercises",
+    "title": "02 - Kinematics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/02_kinematics.html#extensions",
+    "title": "02 - Kinematics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html",
+    "title": "04 - Work and Energy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#physical-motivation",
+    "title": "04 - Work and Energy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#theory",
+    "title": "04 - Work and Energy",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#analytical-solution",
+    "title": "04 - Work and Energy",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#numerical-implementation",
+    "title": "04 - Work and Energy",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#visualization",
+    "title": "04 - Work and Energy",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#exercises",
+    "title": "04 - Work and Energy",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.html#extensions",
+    "title": "04 - Work and Energy",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html",
+    "title": "01 - Vectors",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#physical-motivation",
+    "title": "01 - Vectors",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#theory",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#theory",
+    "title": "01 - Vectors",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#analytical-solution",
+    "title": "01 - Vectors",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#numerical-implementation",
+    "title": "01 - Vectors",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#visualization",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#visualization",
+    "title": "01 - Vectors",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#exercises",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#exercises",
+    "title": "01 - Vectors",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#extensions",
+    "href": "notebooks/part_03_physics/physics_1_mechanics/01_vectors.html#extensions",
+    "title": "01 - Vectors",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html",
+    "title": "03 - Fluids",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#physical-motivation",
+    "title": "03 - Fluids",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#theory",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#theory",
+    "title": "03 - Fluids",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#analytical-solution",
+    "title": "03 - Fluids",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#numerical-implementation",
+    "title": "03 - Fluids",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#visualization",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#visualization",
+    "title": "03 - Fluids",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#exercises",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#exercises",
+    "title": "03 - Fluids",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#extensions",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.html#extensions",
+    "title": "03 - Fluids",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html",
+    "title": "04 - Thermodynamics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#physical-motivation",
+    "title": "04 - Thermodynamics",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#theory",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#theory",
+    "title": "04 - Thermodynamics",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#analytical-solution",
+    "title": "04 - Thermodynamics",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#numerical-implementation",
+    "title": "04 - Thermodynamics",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#visualization",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#visualization",
+    "title": "04 - Thermodynamics",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#exercises",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#exercises",
+    "title": "04 - Thermodynamics",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#extensions",
+    "href": "notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.html#extensions",
+    "title": "04 - Thermodynamics",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html",
+    "title": "04 - Electric Circuits",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#physical-motivation",
+    "title": "04 - Electric Circuits",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#theory",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#theory",
+    "title": "04 - Electric Circuits",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#analytical-solution",
+    "title": "04 - Electric Circuits",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#numerical-implementation",
+    "title": "04 - Electric Circuits",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#visualization",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#visualization",
+    "title": "04 - Electric Circuits",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#exercises",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#exercises",
+    "title": "04 - Electric Circuits",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#extensions",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.html#extensions",
+    "title": "04 - Electric Circuits",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html",
+    "title": "03 - Magnetism",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#physical-motivation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#physical-motivation",
+    "title": "03 - Magnetism",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#theory",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#theory",
+    "title": "03 - Magnetism",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#analytical-solution",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#analytical-solution",
+    "title": "03 - Magnetism",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#numerical-implementation",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#numerical-implementation",
+    "title": "03 - Magnetism",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#visualization",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#visualization",
+    "title": "03 - Magnetism",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#exercises",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#exercises",
+    "title": "03 - Magnetism",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#extensions",
+    "href": "notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.html#extensions",
+    "title": "03 - Magnetism",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html",
+    "title": "07 - Partial Differential Equations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#physical-motivation",
+    "title": "07 - Partial Differential Equations",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#theory",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#theory",
+    "title": "07 - Partial Differential Equations",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#analytical-solution",
+    "title": "07 - Partial Differential Equations",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#numerical-implementation",
+    "title": "07 - Partial Differential Equations",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#visualization",
+    "title": "07 - Partial Differential Equations",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#exercises",
+    "title": "07 - Partial Differential Equations",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/07_partial_differential_equations.html#extensions",
+    "title": "07 - Partial Differential Equations",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html",
+    "title": "01 - Numerical Differentiation",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#physical-motivation",
+    "title": "01 - Numerical Differentiation",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#theory",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#theory",
+    "title": "01 - Numerical Differentiation",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#analytical-solution",
+    "title": "01 - Numerical Differentiation",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#numerical-implementation",
+    "title": "01 - Numerical Differentiation",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#visualization",
+    "title": "01 - Numerical Differentiation",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#exercises",
+    "title": "01 - Numerical Differentiation",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/01_numerical_differentiation.html#extensions",
+    "title": "01 - Numerical Differentiation",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html",
+    "title": "09 - Optimization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#physical-motivation",
+    "title": "09 - Optimization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#theory",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#theory",
+    "title": "09 - Optimization",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#analytical-solution",
+    "title": "09 - Optimization",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#numerical-implementation",
+    "title": "09 - Optimization",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#visualization",
+    "title": "09 - Optimization",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#exercises",
+    "title": "09 - Optimization",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/09_optimization.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/09_optimization.html#extensions",
+    "title": "09 - Optimization",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html",
+    "title": "05 - Linear Systems",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#physical-motivation",
+    "title": "05 - Linear Systems",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#theory",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#theory",
+    "title": "05 - Linear Systems",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#analytical-solution",
+    "title": "05 - Linear Systems",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#numerical-implementation",
+    "title": "05 - Linear Systems",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#visualization",
+    "title": "05 - Linear Systems",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#exercises",
+    "title": "05 - Linear Systems",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/05_linear_systems.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/05_linear_systems.html#extensions",
+    "title": "05 - Linear Systems",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html",
+    "title": "08 - Monte Carlo Methods",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#physical-motivation",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#physical-motivation",
+    "title": "08 - Monte Carlo Methods",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#theory",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#theory",
+    "title": "08 - Monte Carlo Methods",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#analytical-solution",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#analytical-solution",
+    "title": "08 - Monte Carlo Methods",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#numerical-implementation",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#numerical-implementation",
+    "title": "08 - Monte Carlo Methods",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#visualization",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#visualization",
+    "title": "08 - Monte Carlo Methods",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#exercises",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#exercises",
+    "title": "08 - Monte Carlo Methods",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#extensions",
+    "href": "notebooks/part_04_numerical_methods/08_monte_carlo_methods.html#extensions",
+    "title": "08 - Monte Carlo Methods",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html",
+    "title": "08 - Scientific Project Organization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#physical-motivation",
+    "title": "08 - Scientific Project Organization",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#theory",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#theory",
+    "title": "08 - Scientific Project Organization",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#analytical-solution",
+    "title": "08 - Scientific Project Organization",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#numerical-implementation",
+    "title": "08 - Scientific Project Organization",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#visualization",
+    "title": "08 - Scientific Project Organization",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#exercises",
+    "title": "08 - Scientific Project Organization",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/08_project_organization.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/08_project_organization.html#extensions",
+    "title": "08 - Scientific Project Organization",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html",
+    "title": "07 - SciPy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#physical-motivation",
+    "title": "07 - SciPy",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#theory",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#theory",
+    "title": "07 - SciPy",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#analytical-solution",
+    "title": "07 - SciPy",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#numerical-implementation",
+    "title": "07 - SciPy",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#visualization",
+    "title": "07 - SciPy",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#exercises",
+    "title": "07 - SciPy",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/07_scipy.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/07_scipy.html#extensions",
+    "title": "07 - SciPy",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html",
+    "title": "05 - Pandas",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#physical-motivation",
+    "title": "05 - Pandas",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#theory",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#theory",
+    "title": "05 - Pandas",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#analytical-solution",
+    "title": "05 - Pandas",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#numerical-implementation",
+    "title": "05 - Pandas",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#visualization",
+    "title": "05 - Pandas",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#exercises",
+    "title": "05 - Pandas",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/05_pandas.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/05_pandas.html#extensions",
+    "title": "05 - Pandas",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
+  },
+  {
     "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html",
     "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html",
-    "title": "Scientific Computing for Physics",
+    "title": "01 - What is Scientific Computing?",
     "section": "",
-    "text": "Code\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt"
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#physical-motivation",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#physical-motivation",
+    "title": "01 - What is Scientific Computing?",
+    "section": "",
+    "text": "(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#theory",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#theory",
+    "title": "01 - What is Scientific Computing?",
+    "section": "2. Theory",
+    "text": "2. Theory\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#analytical-solution",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#analytical-solution",
+    "title": "01 - What is Scientific Computing?",
+    "section": "3. Analytical Solution",
+    "text": "3. Analytical Solution\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#numerical-implementation",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#numerical-implementation",
+    "title": "01 - What is Scientific Computing?",
+    "section": "4. Numerical Implementation",
+    "text": "4. Numerical Implementation\n(placeholder)\n\n\nCode\nimport numpy as np"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#visualization",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#visualization",
+    "title": "01 - What is Scientific Computing?",
+    "section": "5. Visualization",
+    "text": "5. Visualization\n(placeholder)\n\n\nCode"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#exercises",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#exercises",
+    "title": "01 - What is Scientific Computing?",
+    "section": "6. Exercises",
+    "text": "6. Exercises\n(placeholder)"
+  },
+  {
+    "objectID": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#extensions",
+    "href": "notebooks/part_01_scientific_computing/01_what_is_scientific_computing.html#extensions",
+    "title": "01 - What is Scientific Computing?",
+    "section": "7. Extensions",
+    "text": "7. Extensions\n(placeholder)"
   }
 ]
