@@ -1,0 +1,12 @@
+{
+  "hash": "fd4c6c83f75d0cffc2e87dacf9f2555c",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 02 - Python Fundamentals\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#773d5ee0 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "02_python_fundamentals_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "hash": "d52707bfffa9a7dfcaf0b4fdb0e36993",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 09 - Optimization\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#0071cc0a .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "09_optimization_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

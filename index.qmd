@@ -29,7 +29,7 @@ This project aims to:
 
 The content is organized into four major parts.
 
-### Part I — Scientific Computing
+### Part I - Scientific Computing
 
 Introduction to the fundamental tools used throughout the entire project.
 
@@ -45,7 +45,7 @@ Topics include:
 
 ---
 
-### Part II — Physics and Data Science
+### Part II - Physics and Data Science
 
 Introduction to the fundamental concepts of scientific data analysis.
 
@@ -61,22 +61,22 @@ The notebooks in this section cover topics such as:
 
 ---
 
-### Part III — Physics
+### Part III - Physics
 
 Most of the project is dedicated to the traditional undergraduate Physics curriculum.
 
 The content approximately follows the sequence of a university course:
 
-- Physics I — Mechanics
-- Physics II — Waves, Fluids, and Thermodynamics
-- Physics III — Electromagnetism
-- Physics IV — Optics and Modern Physics
+- Physics I - Mechanics
+- Physics II - Waves, Fluids, and Thermodynamics
+- Physics III - Electromagnetism
+- Physics IV - Optics and Modern Physics
 
 Each notebook combines theory, computational implementation, visualizations, simulations, and exercises.
 
 ---
 
-### Part IV — Numerical Methods
+### Part IV - Numerical Methods
 
 The algorithms used throughout the project are gathered in this section, where they are studied in greater depth.
 
@@ -90,7 +90,8 @@ Planned topics include:
 - ordinary differential equations;
 - partial differential equations;
 - Monte Carlo methods;
-- optimization.
+- optimization;
+- computational complexity.
 
 ---
 

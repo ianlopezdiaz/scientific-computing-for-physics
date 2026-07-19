@@ -1,0 +1,12 @@
+{
+  "hash": "4617fecc07fdc26230e95788360e41b3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 03 - Fluids\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#d792311d .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "03_fluids_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

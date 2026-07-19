@@ -1,0 +1,12 @@
+{
+  "hash": "6e56ddbc92d334519868f5e0f4c29261",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 04 - Electric Circuits\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#1b2102d7 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "04_electric_circuits_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -15,24 +15,112 @@ website:
         menu:
           - href: notebooks/part_01_scientific_computing/01_what_is_scientific_computing.ipynb
             text: "01 - What is Scientific Computing?"
+          - href: notebooks/part_01_scientific_computing/02_python_fundamentals.ipynb
+            text: "02 - Python Fundamentals"
+          - href: notebooks/part_01_scientific_computing/03_jupyter_notebooks.ipynb
+            text: "03 - Jupyter Notebooks"
+          - href: notebooks/part_01_scientific_computing/04_numpy.ipynb
+            text: "04 - NumPy"
+          - href: notebooks/part_01_scientific_computing/05_pandas.ipynb
+            text: "05 - Pandas"
+          - href: notebooks/part_01_scientific_computing/06_matplotlib.ipynb
+            text: "06 - Matplotlib"
+          - href: notebooks/part_01_scientific_computing/07_scipy.ipynb
+            text: "07 - SciPy"
+          - href: notebooks/part_01_scientific_computing/08_project_organization.ipynb
+            text: "08 - Scientific Project Organization"
 
       - text: "Part II"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_02_physics_and_data_science/01_data_in_physics.ipynb
+            text: "01 - Data in Physics"
+          - href: notebooks/part_02_physics_and_data_science/02_scientific_visualization.ipynb
+            text: "02 - Scientific Visualization"
+          - href: notebooks/part_02_physics_and_data_science/03_reading_experimental_data.ipynb
+            text: "03 - Reading Experimental Data"
+          - href: notebooks/part_02_physics_and_data_science/04_descriptive_statistics.ipynb
+            text: "04 - Descriptive Statistics"
+          - href: notebooks/part_02_physics_and_data_science/05_measurement_uncertainties.ipynb
+            text: "05 - Measurement Uncertainties"
+          - href: notebooks/part_02_physics_and_data_science/06_least_squares.ipynb
+            text: "06 - Least Squares"
+          - href: notebooks/part_02_physics_and_data_science/07_linear_regression.ipynb
+            text: "07 - Linear Regression"
+          - href: notebooks/part_02_physics_and_data_science/08_nonlinear_regression.ipynb
+            text: "08 - Nonlinear Regression"
+          - href: notebooks/part_02_physics_and_data_science/09_scientific_reporting.ipynb
+            text: "09 - Scientific Reporting"
 
       - text: "Physics I"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_03_physics/physics_1_mechanics/01_vectors.ipynb
+            text: "01 - Vectors"
+          - href: notebooks/part_03_physics/physics_1_mechanics/02_kinematics.ipynb
+            text: "02 - Kinematics"
+          - href: notebooks/part_03_physics/physics_1_mechanics/03_newtons_laws.ipynb
+            text: "03 - Newton's Laws"
+          - href: notebooks/part_03_physics/physics_1_mechanics/04_work_and_energy.ipynb
+            text: "04 - Work and Energy"
+          - href: notebooks/part_03_physics/physics_1_mechanics/05_linear_momentum.ipynb
+            text: "05 - Linear Momentum"
+          - href: notebooks/part_03_physics/physics_1_mechanics/06_rotational_motion.ipynb
+            text: "06 - Rotational Motion"
+          - href: notebooks/part_03_physics/physics_1_mechanics/07_oscillations.ipynb
+            text: "07 - Oscillations"
 
       - text: "Physics II"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/01_waves.ipynb
+            text: "01 - Waves"
+          - href: notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/02_wave_superposition.ipynb
+            text: "02 - Wave Superposition"
+          - href: notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/03_fluids.ipynb
+            text: "03 - Fluids"
+          - href: notebooks/part_03_physics/physics_2_waves_fluids_thermodynamics/04_thermodynamics.ipynb
+            text: "04 - Thermodynamics"
 
       - text: "Physics III"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_03_physics/physics_3_electromagnetism/01_electrostatics.ipynb
+            text: "01 - Electrostatics"
+          - href: notebooks/part_03_physics/physics_3_electromagnetism/02_electric_potential.ipynb
+            text: "02 - Electric Potential"
+          - href: notebooks/part_03_physics/physics_3_electromagnetism/03_magnetism.ipynb
+            text: "03 - Magnetism"
+          - href: notebooks/part_03_physics/physics_3_electromagnetism/04_electric_circuits.ipynb
+            text: "04 - Electric Circuits"
 
       - text: "Physics IV"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_03_physics/physics_4_optics_modern_physics/01_geometrical_optics.ipynb
+            text: "01 - Geometrical Optics"
+          - href: notebooks/part_03_physics/physics_4_optics_modern_physics/02_wave_optics.ipynb
+            text: "02 - Wave Optics"
+          - href: notebooks/part_03_physics/physics_4_optics_modern_physics/03_modern_physics.ipynb
+            text: "03 - Modern Physics"
 
       - text: "Numerical Methods"
-        href: index.qmd
+        menu:
+          - href: notebooks/part_04_numerical_methods/01_numerical_differentiation.ipynb
+            text: "01 - Numerical Differentiation"
+          - href: notebooks/part_04_numerical_methods/02_numerical_integration.ipynb
+            text: "02 - Numerical Integration"
+          - href: notebooks/part_04_numerical_methods/03_root_finding.ipynb
+            text: "03 - Root Finding"
+          - href: notebooks/part_04_numerical_methods/04_interpolation.ipynb
+            text: "04 - Interpolation"
+          - href: notebooks/part_04_numerical_methods/05_linear_systems.ipynb
+            text: "05 - Linear Systems"
+          - href: notebooks/part_04_numerical_methods/06_ordinary_differential_equations.ipynb
+            text: "06 - Ordinary Differential Equations"
+          - href: notebooks/part_04_numerical_methods/07_partial_differential_equations.ipynb
+            text: "07 - Partial Differential Equations"
+          - href: notebooks/part_04_numerical_methods/08_monte_carlo_methods.ipynb
+            text: "08 - Monte Carlo Methods"
+          - href: notebooks/part_04_numerical_methods/09_optimization.ipynb
+            text: "09 - Optimization"
+          - href: notebooks/part_04_numerical_methods/10_computational_complexity.ipynb
+            text: "10 - Computational Complexity"
 
     right:
       - text: "🇧🇷 Português"

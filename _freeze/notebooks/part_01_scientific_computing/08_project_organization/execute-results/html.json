@@ -1,0 +1,12 @@
+{
+  "hash": "b231d62a0a042c512c1df761d061a801",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 08 - Scientific Project Organization\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#031b4097 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "08_project_organization_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

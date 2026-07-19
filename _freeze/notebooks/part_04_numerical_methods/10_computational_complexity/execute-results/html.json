@@ -1,0 +1,12 @@
+{
+  "hash": "964420791871548417c4e43ec31c46af",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 10 - Computational Complexity\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#d47f00bc .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "10_computational_complexity_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

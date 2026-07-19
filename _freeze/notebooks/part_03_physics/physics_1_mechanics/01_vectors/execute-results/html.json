@@ -1,0 +1,12 @@
+{
+  "hash": "12b81a2f2ae2de5687924deb96f0815c",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 01 - Vectors\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#3e51f223 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "01_vectors_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

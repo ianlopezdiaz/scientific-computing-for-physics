@@ -1,0 +1,12 @@
+{
+  "hash": "963aa1efbbf741adaf5420ffa839d742",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 01 - Waves\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#de0cc1aa .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "01_waves_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

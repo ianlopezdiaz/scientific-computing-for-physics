@@ -1,0 +1,12 @@
+{
+  "hash": "8da0759f272e2011635487ecd93d38a3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 07 - Partial Differential Equations\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#9ca8b30d .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "07_partial_differential_equations_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

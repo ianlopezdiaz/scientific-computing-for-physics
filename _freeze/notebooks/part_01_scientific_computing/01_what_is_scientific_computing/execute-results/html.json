@@ -1,0 +1,12 @@
+{
+  "hash": "558e16a883caa9a51eaeba9800b3f07e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 01 - What is Scientific Computing?\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#6fbdf003 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "01_what_is_scientific_computing_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

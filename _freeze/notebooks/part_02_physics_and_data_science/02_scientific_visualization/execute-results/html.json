@@ -1,0 +1,12 @@
+{
+  "hash": "3db8aaeea8c8d3117b91594882ac7c3e",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 02 - Scientific Visualization\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#1a760024 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "02_scientific_visualization_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

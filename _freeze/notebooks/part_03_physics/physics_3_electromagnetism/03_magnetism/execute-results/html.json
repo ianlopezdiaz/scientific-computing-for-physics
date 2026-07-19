@@ -1,0 +1,12 @@
+{
+  "hash": "dbe1cfdb9ccdfb9aeda22de98c3443ec",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 03 - Magnetism\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#c8170646 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "03_magnetism_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

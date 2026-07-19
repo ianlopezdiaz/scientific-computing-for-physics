@@ -1,0 +1,12 @@
+{
+  "hash": "45af25fcf3e358b4fc40b4896b5ee025",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 06 - Least Squares\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#304a83d3 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "06_least_squares_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

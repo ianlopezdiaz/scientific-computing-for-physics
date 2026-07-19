@@ -113,7 +113,8 @@ Planned topics include:
 * ordinary differential equations;
 * partial differential equations;
 * Monte Carlo methods;
-* optimization.
+* optimization;
+* computational complexity.
 
 This organization allows the physics notebooks to remain focused on physical concepts while providing a dedicated reference for the mathematical and computational foundations of the algorithms.
 

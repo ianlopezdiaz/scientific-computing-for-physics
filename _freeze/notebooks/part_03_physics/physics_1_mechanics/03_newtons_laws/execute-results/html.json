@@ -1,0 +1,12 @@
+{
+  "hash": "6cb606f5916b41a2227da8856b322143",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 03 - Newton's Laws\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#7319dbf0 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "03_newtons_laws_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

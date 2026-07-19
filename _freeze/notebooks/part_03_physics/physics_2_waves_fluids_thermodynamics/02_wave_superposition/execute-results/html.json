@@ -1,0 +1,12 @@
+{
+  "hash": "0d6030e690d9502451b727ee48a1dbbc",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 02 - Wave Superposition\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#e59a6aea .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "02_wave_superposition_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

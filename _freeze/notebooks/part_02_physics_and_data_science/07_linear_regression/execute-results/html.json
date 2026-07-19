@@ -1,0 +1,12 @@
+{
+  "hash": "c02e9abe82f85fe2027b4e4c3827c3b2",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 07 - Linear Regression\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#b257189c .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "07_linear_regression_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

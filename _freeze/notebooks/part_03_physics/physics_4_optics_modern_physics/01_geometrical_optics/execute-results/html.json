@@ -1,0 +1,12 @@
+{
+  "hash": "1cc7479bcc71665e59e8328d2373254d",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 01 - Geometrical Optics\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#8dfd8ac6 .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "01_geometrical_optics_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

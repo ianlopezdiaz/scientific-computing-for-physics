@@ -1,0 +1,12 @@
+{
+  "hash": "5e60ea952fe3213c4a5f21aa3349da94",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: 08 - Monte Carlo Methods\n---\n\n\n\n\n## 1. Physical Motivation\n_(placeholder)_\n\n## 2. Theory\n_(placeholder)_\n\n## 3. Analytical Solution\n_(placeholder)_\n\n## 4. Numerical Implementation\n_(placeholder)_\n\n::: {#3ac2050a .cell execution_count=1}\n``` {.python .cell-code}\nimport numpy as np\n```\n:::\n\n\n## 5. Visualization\n_(placeholder)_\n\n\n## 6. Exercises\n_(placeholder)_\n\n## 7. Extensions\n_(placeholder)_\n\n",
+    "supporting": [
+      "08_monte_carlo_methods_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
